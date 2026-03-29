@@ -28,7 +28,7 @@ Data Visualization · Generative AI
 ---
 
 ## Contact
-
+- LinkedIn: [Hiba Shaikh](https://www.linkedin.com/in/hiba-shaikh-784509390)
 - Kaggle: [hibashaikh1](https://www.kaggle.com/hibashaikh1)
 - Fiverr: *coming soon*
 - Available for: Freelance Work · Internships
