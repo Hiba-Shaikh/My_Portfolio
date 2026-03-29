@@ -23,7 +23,8 @@ Data Visualization · Generative AI
 
 | Project | Description | Link |
 |---|---|---|
-| Student Performance EDA | Data cleaning & visualization of 10,000+ row real-world dataset. Handled missing values, outliers, and built univariate, bivariate & trivariate plots. | [View Project](https://www.kaggle.com/code/hibashaikh1/data-visualization-clean-data) |
+| 🎓 Student Performance EDA | Data cleaning & visualization of 10,000+ row real-world dataset. Handled missing values, outliers, and built univariate, bivariate & trivariate plots. | [Kaggle](https://www.kaggle.com/code/hibashaikh1/data-visualization-clean-data) · [GitHub](https://github.com/Hiba-Shaikh/student-performance-eda) |
+| 🔜 More coming soon... | | |
 
 ---
 
